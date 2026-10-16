@@ -1,0 +1,8 @@
+path: C:/Users/VANSH/Projects/solar-sweeper-ai/data/solar_grouped
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: debris
+  1: dirt
